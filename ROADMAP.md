@@ -10,9 +10,9 @@
 ## 📊 PROGRESO GENERAL
 
 - [x] **STAGE 0:** Setup y Preparación (1-2 semanas) ✅ **COMPLETADO**
-- [ ] **STAGE 1:** MVP Core - Combate Básico (3-4 semanas) ⏳ **EN PROGRESO**
-- [ ] **STAGE 2:** Sistemas de Combate Ampliados (3-4 semanas)
-- [ ] **STAGE 3:** Generación Procedural Básica (4-5 semanas)
+- [x] **STAGE 1:** MVP Core - Combate Básico (3-4 semanas) ✅ **COMPLETADO**
+- [x] **STAGE 2:** Sistemas de Combate Ampliados (3-4 semanas) ✅ **COMPLETADO**
+- [ ] **STAGE 3:** Generación Procedural Básica (4-5 semanas) ⏳ **SIGUIENTE**
 - [ ] **STAGE 4:** Sistemas de Loot y Build Variety (3-4 semanas)
 - [ ] **STAGE 5:** Meta-progresión y Hub (4-5 semanas)
 - [ ] **STAGE 6:** Jefes y Biomas (5-6 semanas)
