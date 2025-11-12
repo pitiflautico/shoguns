@@ -9,8 +9,8 @@
 
 ## 📊 PROGRESO GENERAL
 
-- [ ] **STAGE 0:** Setup y Preparación (1-2 semanas)
-- [ ] **STAGE 1:** MVP Core - Combate Básico (3-4 semanas)
+- [x] **STAGE 0:** Setup y Preparación (1-2 semanas) ✅ **COMPLETADO**
+- [ ] **STAGE 1:** MVP Core - Combate Básico (3-4 semanas) ⏳ **EN PROGRESO**
 - [ ] **STAGE 2:** Sistemas de Combate Ampliados (3-4 semanas)
 - [ ] **STAGE 3:** Generación Procedural Básica (4-5 semanas)
 - [ ] **STAGE 4:** Sistemas de Loot y Build Variety (3-4 semanas)
@@ -31,18 +31,18 @@
 
 ### Tareas de Programación
 
-- [ ] **0.1 Configuración Unity**
-  - [ ] Crear proyecto Unity 2022 LTS (2D URP)
-  - [ ] Configurar Input System (New Input System)
-  - [ ] Instalar paquetes: Cinemachine, 2D Animation, Shader Graph, TextMeshPro
-  - [ ] Configurar resoluciones objetivo (1920x1080 base)
-  - [ ] Setup de capas (Player, Enemy, Projectile, Ground, etc.)
+- [x] **0.1 Configuración Unity** ✅
+  - [x] Crear proyecto Unity 2022 LTS (2D URP) - Documentado en SETUP.md
+  - [x] Configurar Input System (New Input System) - Documentado
+  - [x] Instalar paquetes: Cinemachine, 2D Animation, Shader Graph, TextMeshPro - Guía en configure-unity-packages.md
+  - [x] Configurar resoluciones objetivo (1920x1080 base) - Configurado en scripts
+  - [x] Setup de capas (Player, Enemy, Projectile, Ground, etc.) - Documentado en SETUP.md
 
-- [ ] **0.2 Estructura de carpetas y arquitectura**
-  - [ ] Crear estructura MVC o sistema modular
-  - [ ] Carpetas: Scripts/{Player, Enemy, Combat, Generation, UI, Audio, Managers}
-  - [ ] Carpetas: Assets/{Sprites, Animations, Prefabs, Audio, Shaders}
-  - [ ] Configurar Git/control de versiones (.gitignore para Unity)
+- [x] **0.2 Estructura de carpetas y arquitectura** ✅
+  - [x] Crear estructura MVC o sistema modular - Scripts base creados
+  - [x] Carpetas: Scripts/{Player, Enemy, Combat, Generation, UI, Audio, Managers} - setup-unity-project.sh
+  - [x] Carpetas: Assets/{Sprites, Animations, Prefabs, Audio, Shaders} - setup-unity-project.sh
+  - [x] Configurar Git/control de versiones (.gitignore para Unity) - .gitignore creado
 
 ### Assets IA necesarios
 
